@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "DV5BcGeUjKE23drvupvHV4vM58WdN9QE4pYo91vtrMxE"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "network": "devnet",
+  "xApiKey": "mw_4OZW7y3U8FzvElC3zSmMXhogZWLw4v7NDus",
+  "serviceFee": 3,
+  "currencyOption": "USDC",
+  "name": "JennyNFT",
+  "logo": "https://collections.mirrorworld.fun/1678027337993-download.png"
 }
